@@ -17,8 +17,6 @@ Different tools, same curiosity: understanding what lies beneath the surface.
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 
-Exploring AI, NLP and data visualisation.
-
 ### CURRENT MISSION
 
 Turning raw data into meaningful insights, asking better questions, and making complex information easier to understand.
