@@ -1,76 +1,28 @@
-## Hi there 👋
 
-<h2 align="center">💬 a little introduction</h2>
-<p align="center">
-  <sub>one conversation, a few things about me</sub>
-</p>
+## Hello, world.
 
-<table>
-  <tr>
-    <td align="left" width="65%">
-      <strong>someone</strong><br/><br/>
-      Hey! So, tell me a little about yourself.
-    </td>
-    <td width="35%"></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="left">
-      <strong>alessandra</strong><br/><br/>
-      I'm a language specialist transitioning into
-      data analytics. I enjoy turning complex
-      information into clear, useful insights.
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <strong>someone</strong><br/><br/>
-      What does your toolkit look like?
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="left">
-      <strong>alessandra</strong><br/><br/>
-      Python, SQL, R, Power BI and Tableau.
-      I'm learning by building projects and
-      exploring real-world data.
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <strong>someone</strong><br/><br/>
-      What topics interest you?
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="left">
-      <strong>alessandra</strong><br/><br/>
-      European innovation, AI, NLP, and the
-      intersection of language and technology.
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <strong>someone</strong><br/><br/>
-      What's next?
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="left">
-      <strong>alessandra</strong><br/><br/>
-      Keep learning, keep building, and ask
-      better questions along the way.
-    </td>
-  </tr>
-</table>
+*I'm Alessandra, somewhere between language and data.*
 
-<p align="center">
-  <sub>currently writing my next chapter...</sub>
-</p>
+I used to study how people communicate through words. Now I'm learning how data communicates through patterns.
+
+Different tools, same curiosity: understanding what lies beneath the surface.
+
+### CURRENT FREQUENCIES
+
+![Python](https://img.shields.io/badge/Python-F29A62?style=flat-square&logo=python&logoColor=713D30)
+![SQL](https://img.shields.io/badge/SQL-F29A62?style=flat-square&logo=mysql&logoColor=713D30)
+![R](https://img.shields.io/badge/R-F29A62?style=flat-square&logo=r&logoColor=713D30)
+![Power BI](https://img.shields.io/badge/Power_BI-F6D2BD?style=flat-square&logo=powerbi&logoColor=713D30)
+![Tableau](https://img.shields.io/badge/Tableau-F6D2BD?style=flat-square&logo=tableau&logoColor=713D30)
+
+Exploring AI, NLP, data visualisation, and European innovation.
+
+### CURRENT MISSION
+
+Turning raw data into meaningful insights, asking better questions, and making complex information easier to understand.
+
+---
+
+<sub>END TRANSMISSION_ · Signal remains open. More to come.</sub>
+
 
