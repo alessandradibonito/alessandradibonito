@@ -9,13 +9,15 @@ Different tools, same curiosity: understanding what lies beneath the surface.
 
 ### CURRENT FREQUENCIES
 
-![Python](https://img.shields.io/badge/Python-F29A62?style=flat-square&logo=python&logoColor=713D30)
-![SQL](https://img.shields.io/badge/SQL-F29A62?style=flat-square&logo=mysql&logoColor=713D30)
-![R](https://img.shields.io/badge/R-F29A62?style=flat-square&logo=r&logoColor=713D30)
-![Power BI](https://img.shields.io/badge/Power_BI-F6D2BD?style=flat-square&logo=powerbi&logoColor=713D30)
-![Tableau](https://img.shields.io/badge/Tableau-F6D2BD?style=flat-square&logo=tableau&logoColor=713D30)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-Exploring AI, NLP, data visualisation, and European innovation.
+
+Exploring AI, NLP and data visualisation.
 
 ### CURRENT MISSION
 
